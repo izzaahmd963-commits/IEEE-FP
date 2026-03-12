@@ -94,5 +94,18 @@ A full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js,
 | **Render** | Backend deployment |
 
 ---
+## 🚀 Installation & Setup
 
-## 📁 Project Structure
+### **Prerequisites**
+- Node.js (v18 or higher)
+- npm or yarn
+- MongoDB Atlas account
+- Cloudinary account
+- Git
+
+### **Step-by-Step Setup**
+
+#### 1. Clone the Repository
+```bash
+git clone https://github.com/izzaahmd963-commits/IEEE-FP
+cd IEEE-Final-project
