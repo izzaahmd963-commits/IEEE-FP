@@ -191,11 +191,10 @@ npm run dev
 cd client
 npm run dev
 ```
-✅ React, Redux, Tailwind (Frontend)
-✅ Node.js, Express, MongoDB (Backend)
-✅ JWT, bcrypt (Authentication)
-✅ Cloudinary, Multer (File Upload)
-✅ Stripe (Payment - ready)
-✅ Git, GitHub (Version Control)
-✅ Vercel, Render (Deployment)
-✅ MongoDB Atlas, Compass (Database)
+**1. React, Redux, Tailwind (Frontend)
+2. Node.js, Express, MongoDB (Backend)
+3. JWT, bcrypt (Authentication)
+4. Cloudinary, Multer (File Upload)
+5. Stripe (Payment - ready)
+6. Vercel, Render (Deployment)
+7. MongoDB Atlas, Compass (Database)**
